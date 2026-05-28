@@ -1,0 +1,10 @@
+What does RAII stand for in C++?|Resource Acquisition Is Initialization
+Which STL container stores unique keys in sorted order?|set
+What keyword is used to derive one class from another?|public
+Which smart pointer allows shared ownership of an object?|shared_ptr
+What is the return type of main in standard C++?|int
+Which operator is commonly overloaded for stream output?|<<
+What does std::move enable in modern C++?|Move semantics
+Which header defines std::vector?|<vector>
+What C++ feature allows one function name to have multiple parameter signatures?|Function overloading
+What keyword prevents a method from being overridden in derived classes?|final
