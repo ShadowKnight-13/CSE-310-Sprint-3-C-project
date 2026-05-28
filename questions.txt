@@ -8,3 +8,4 @@ What does std::move enable in modern C++?|Move semantics
 Which header defines std::vector?|<vector>
 What C++ feature allows one function name to have multiple parameter signatures?|Function overloading
 What keyword prevents a method from being overridden in derived classes?|final
+Your Mom|Is Gay
