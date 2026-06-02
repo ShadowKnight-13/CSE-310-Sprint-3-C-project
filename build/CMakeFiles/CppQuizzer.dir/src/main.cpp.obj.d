@@ -553,73 +553,20 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__format/range_format.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__format/fmt_pair_like.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__iterator/bounded_iter.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/fstream \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/path.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/string \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__debug_utils/sanitizers.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__format/enable_insertable.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/is_transparent.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/allocate_at_least.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/noexcept_move_assign_container.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/chrono \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__chrono/file_clock.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/string_view \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__fwd/string_view.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/forward_list \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/lexicographical_compare_three_way.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/three_way_comp_ref_type.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/swap_allocator.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory_resource/polymorphic_allocator.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory_resource/memory_resource.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/container_compatible_range.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/from_range.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__string/extern_template_lists.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/is_allocator.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/default_three_way_comparator.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/no_destroy.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/scope_guard.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/string_view \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__fwd/string_view.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/iomanip \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/money.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/locale_base_api.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/support/windows.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/clocale \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/locale.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/once_flag.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/check_grouping.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/ios \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ios/fpos.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_category.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_code.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/errc.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/cerrno \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/errno.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/errno.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_condition.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/system_error.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/mutex \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__condition_variable/condition_variable.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/mutex.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/unique_lock.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/tag_types.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/throw_system_error.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/lock_guard.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__thread/id.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/system_error \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/get_c_locale.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/pad_and_output.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/time.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/scan_keyword.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ostream/put_character_sequence.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/array \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/lexicographical_compare_three_way.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/three_way_comp_ref_type.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__iterator/static_bounded_iter.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/bitset \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__bit_reference \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/is_char_like_type.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/deque \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/ranges_copy_n.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/in_out_result.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__fwd/deque.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/temp_value.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__split_buffer \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/container_traits.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/is_allocator.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/functional \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/binary_negate.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/bind.h \
@@ -633,8 +580,12 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/function.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/strip_signature.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/boyer_moore_searcher.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/array \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__iterator/static_bounded_iter.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/unordered_map \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/is_transparent.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__hash_table \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/scope_guard.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/try_key_extraction.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/remove_const_ref.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/priority_tag.h \
@@ -649,17 +600,57 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__fwd/vector.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__vector/swap.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__vector/vector.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__debug_utils/sanitizers.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__format/enable_insertable.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/allocate_at_least.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/noexcept_move_assign_container.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__memory/temp_value.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/as_rvalue_view.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/all.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__functional/compose.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/owning_view.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/range_adaptor.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ranges/ref_view.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__split_buffer \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__vector/container_traits.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__vector/vector_bool.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__bit_reference \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__vector/pmr.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/cerrno \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/errno.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/errno.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/clocale \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/locale.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/locale \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/locale_base_api.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/support/windows.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/string \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__string/extern_template_lists.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/default_three_way_comparator.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__utility/no_destroy.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/once_flag.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/messages.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/money.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/check_grouping.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/ios \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ios/fpos.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_category.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_code.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/errc.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/error_condition.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/system_error.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/mutex \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__condition_variable/condition_variable.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/mutex.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/unique_lock.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/tag_types.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__system_error/throw_system_error.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__mutex/lock_guard.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__thread/id.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/system_error \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/get_c_locale.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/pad_and_output.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/num.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__charconv/to_chars_integral.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__charconv/tables.h \
@@ -667,7 +658,9 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__charconv/to_chars_result.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__charconv/traits.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/make_32_64_or_128_bit.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/scan_keyword.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/streambuf \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/time.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/wbuffer_convert.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__locale_dir/wstring_convert.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/cstdarg \
@@ -679,6 +672,16 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/lib/clang/22/include/__stdarg_va_arg.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/lib/clang/22/include/__stdarg___va_copy.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/lib/clang/22/include/__stdarg_va_copy.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/fstream \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/path.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/iomanip \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__ostream/put_character_sequence.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/bitset \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__type_traits/is_char_like_type.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/deque \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/ranges_copy_n.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/in_out_result.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__fwd/deque.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/format \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/queue \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__algorithm/ranges_copy.h \
@@ -696,7 +699,6 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/file_type.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/perms.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/file_time_type.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__chrono/file_clock.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/filesystem_error.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/operations.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__filesystem/perm_options.h \
@@ -759,5 +761,7 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__random/student_t_distribution.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__random/uniform_random_bit_generator.h \
   C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__random/weibull_distribution.h \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/chrono \
-  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/forward_list
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/sstream \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/thread \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__thread/this_thread.h \
+  C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/include/c++/v1/__thread/thread.h
