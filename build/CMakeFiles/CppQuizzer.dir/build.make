@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\CMake\bin\cmake.exe"
+CMAKE_COMMAND = C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\tools\cmake-4.3.3-windows-x86_64\bin\cmake.exe
 
 # The command to remove a file.
-RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
+RM = C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\tools\cmake-4.3.3-windows-x86_64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -75,15 +75,15 @@ CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: CMakeFiles/CppQuizzer.dir/flags.make
 CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/src/main.cpp
 CMakeFiles/CppQuizzer.dir/src/main.cpp.obj: CMakeFiles/CppQuizzer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CppQuizzer.dir/src/main.cpp.obj"
-	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260519-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CppQuizzer.dir/src/main.cpp.obj -MF CMakeFiles\CppQuizzer.dir\src\main.cpp.obj.d -o CMakeFiles\CppQuizzer.dir\src\main.cpp.obj -c C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp
+	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260602-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CppQuizzer.dir/src/main.cpp.obj -MF CMakeFiles\CppQuizzer.dir\src\main.cpp.obj.d -o CMakeFiles\CppQuizzer.dir\src\main.cpp.obj -c C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp
 
 CMakeFiles/CppQuizzer.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CppQuizzer.dir/src/main.cpp.i"
-	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260519-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp > CMakeFiles\CppQuizzer.dir\src\main.cpp.i
+	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260602-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp > CMakeFiles\CppQuizzer.dir\src\main.cpp.i
 
 CMakeFiles/CppQuizzer.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppQuizzer.dir/src/main.cpp.s"
-	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260519-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp -o CMakeFiles\CppQuizzer.dir\src\main.cpp.s
+	C:\Users\Padra\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260602-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\src\main.cpp -o CMakeFiles\CppQuizzer.dir\src\main.cpp.s
 
 # Object files for target CppQuizzer
 CppQuizzer_OBJECTS = \
@@ -99,9 +99,9 @@ CppQuizzer.exe: CMakeFiles/CppQuizzer.dir/objects1.rsp
 CppQuizzer.exe: CMakeFiles/CppQuizzer.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CppQuizzer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CppQuizzer.dir\link.txt --verbose=$(VERBOSE)
-	"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/bin/libc++.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libc++.dll
-	"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/bin/libunwind.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libunwind.dll
-	"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260519-ucrt-x86_64/bin/libwinpthread-1.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libwinpthread-1.dll
+	C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\tools\cmake-4.3.3-windows-x86_64\bin\cmake.exe -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260602-ucrt-x86_64/bin/libc++.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libc++.dll
+	C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\tools\cmake-4.3.3-windows-x86_64\bin\cmake.exe -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260602-ucrt-x86_64/bin/libunwind.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libunwind.dll
+	C:\Users\Padra\OneDrive\Documents\GitHub\CSE-310-Sprint-3-C-project\tools\cmake-4.3.3-windows-x86_64\bin\cmake.exe -E copy_if_different C:/Users/Padra/AppData/Local/Microsoft/WinGet/Packages/MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/llvm-mingw-20260602-ucrt-x86_64/bin/libwinpthread-1.dll C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build/libwinpthread-1.dll
 
 # Rule to build all files generated by this target.
 CMakeFiles/CppQuizzer.dir/build: CppQuizzer.exe

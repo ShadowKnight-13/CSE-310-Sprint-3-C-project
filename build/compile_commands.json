@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/build",
-  "command": "C:\\Users\\Padra\\AppData\\Local\\Microsoft\\WinGet\\Packages\\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\llvm-mingw-20260519-ucrt-x86_64\\bin\\clang++.exe   -std=c++17 -o CMakeFiles\\CppQuizzer.dir\\src\\main.cpp.obj -c C:\\Users\\Padra\\OneDrive\\Documents\\GitHub\\CSE-310-Sprint-3-C-project\\src\\main.cpp",
+  "command": "C:\\Users\\Padra\\AppData\\Local\\Microsoft\\WinGet\\Packages\\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\llvm-mingw-20260602-ucrt-x86_64\\bin\\clang++.exe   -std=c++17 -o CMakeFiles\\CppQuizzer.dir\\src\\main.cpp.obj -c C:\\Users\\Padra\\OneDrive\\Documents\\GitHub\\CSE-310-Sprint-3-C-project\\src\\main.cpp",
   "file": "C:/Users/Padra/OneDrive/Documents/GitHub/CSE-310-Sprint-3-C-project/src/main.cpp",
   "output": "CMakeFiles/CppQuizzer.dir/src/main.cpp.obj"
 }

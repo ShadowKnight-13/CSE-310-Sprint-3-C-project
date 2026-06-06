@@ -1,6 +1,9 @@
 #include <algorithm>
 #include <cctype>
 #include <chrono>
+#ifdef _WIN32
+#include <conio.h>
+#endif
 #include <ctime>
 #include <cstdlib>
 #include <fstream>
@@ -516,10 +519,35 @@ TimedInputResult promptLineTimed(const std::string& prompt, int timeoutSeconds) 
     std::string input;
 
     while (std::chrono::steady_clock::now() - start < timeout) {
+#ifdef _WIN32
+        if (_kbhit()) {
+            const int ch = _getch();
+
+            if (ch == '\r' || ch == '\n') {
+                std::cout << "\n";
+                return {true, false, trim(input)};
+            }
+
+            if (ch == '\b') {
+                if (!input.empty()) {
+                    input.pop_back();
+                    std::cout << "\b \b";
+                }
+                continue;
+            }
+
+            if (std::isprint(static_cast<unsigned char>(ch)) != 0) {
+                input.push_back(static_cast<char>(ch));
+                std::cout << static_cast<char>(ch);
+            }
+            continue;
+        }
+#else
         if (std::cin.rdbuf()->in_avail() > 0) {
             std::getline(std::cin, input);
             return {true, false, trim(input)};
         }
+#endif
         std::this_thread::sleep_for(std::chrono::milliseconds(100));
     }
 

@@ -3,5 +3,5 @@
   "cmake.defaultConfigurePreset": "windows-mingw",
   "cmake.defaultBuildPreset": "windows-mingw-release",
   "cmake.configureOnOpen": true,
-  "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe"
+  "cmake.cmakePath": "${workspaceFolder}/tools/cmake-4.3.3-windows-x86_64/bin/cmake.exe"
 }
