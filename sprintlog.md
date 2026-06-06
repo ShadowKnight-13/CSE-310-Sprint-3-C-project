@@ -26,12 +26,18 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|  5/25/26 |          |   IM   | Planning                                   |     90      |
+| 5/26/26  |          |   TP   |                                            |     60      |
+| 5/26/26  |          |   IM   | setting up C++ Enviroment                  |    120      |
+| 5/27/26  |          |   IM   |    intial build                            |     60      |
+| 5/28/26  |          |   TP   |                                            |     60      |
+| 5/28/26  |          |   IM   |   Adding additonal features + Testing      |     90      |
+| 6/2/26   |          |   TP   |                                            |     60      |
+| 6/2/26   |          |   IM   |   Implenting new features + testing        |     60      |
+| 6/2/26   |          |   TP   |                                            |     60      |
+| 6/4/26   |          |   IM   |   Implenting new features + testing        |     90      |
+| 6/6/26   |          |   IM   |Implenting final features + documentation   |     45      |
+
 
 _Note: Add more rows as needed._
 
